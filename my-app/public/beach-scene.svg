@@ -1,0 +1,15 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky -->
+  <rect width="400" height="200" fill="#87CEEB" />
+
+  <!-- Sun -->
+  <circle cx="300" cy="70" r="40" fill="#FFD700" />
+
+  <!-- Clouds -->
+  <ellipse cx="100" cy="80" rx="50" ry="30" fill="#FFFFFF" />
+  <ellipse cx="160" cy="60" rx="60" ry="35" fill="#FFFFFF" />
+  <ellipse cx="220" cy="90" rx="40" ry="25" fill="#FFFFFF" />
+
+  <!-- Beach -->
+  <path d="M0 200 Q100 180 200 200 T400 200 L400 300 L0 300 Z" fill="#F4A460" />
+</svg>
